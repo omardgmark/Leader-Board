@@ -1,0 +1,19 @@
+
+body{
+    background-color: #f3f1ff;
+}
+
+.blogo{
+    width: 40.42px;
+    height: 51px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #ffffff;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
